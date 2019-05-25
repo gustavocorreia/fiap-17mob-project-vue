@@ -22,3 +22,33 @@ Para que o objetivo do projeto seja atingido é necessário que os seguinte requ
 11. O aplicativo deve consumir a API Rest do GitHub e listar todos os repositórios de um usuário a partir da digitação do nome desse usuário em um campo da tela inicial do aplicativo;
 12. A listagem dos repositórios deve conter o nome do repositório, quantidade de estrelas e link para o mesmo;
 13. A PWA deve conter ícones, splash screen e a tela de login deve ser exibida ao usuário com um aviso caso o mesmo esteja offline.
+
+# vue-17mob-project
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
